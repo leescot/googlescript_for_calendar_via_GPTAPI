@@ -1,3 +1,5 @@
+最後一部份「捷徑」的設定，可連至 https://kunfengleemd.blogspot.com/2023/09/iOS-shortcut-openai-googlecalendar.html 觀看圖片版
+
 📝 OpenAI 和 Google 日曆整合指南
 
 此指南將教你如何使用 iOS 的「捷徑」與 Google Apps Script，使你能夠方便地將資訊增加到 Google 日曆中。
